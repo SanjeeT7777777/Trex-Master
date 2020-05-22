@@ -157,7 +157,7 @@ function reset(){
   obstaclesGroup.destroyEach();
   cloudsGroup.destroyEach();
   
-  //trex.changeAnimation("running",trex_running);
+  trex.changeAnimation("running",trex_running);
   
   score = 0;
   
